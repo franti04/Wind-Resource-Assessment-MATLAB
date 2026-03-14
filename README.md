@@ -8,4 +8,4 @@ To estimate the parameters from these small samples, the software linearizes the
 
 Our rigorous statistical analysis reveals that a minimum of 10 samples is strictly necessary to keep the estimation error for both parameters below 15%. Using fewer samples severely destabilizes the shape parameter (β), leading to a dangerous overestimation of the site's energy potential.
 
-This project demonstrates advanced MATLAB programming concepts, including matrix pre-allocation for memory management, custom function modularity, statistical plotting, and the practical application of the Law of Large Numbers
+This project demonstrates advanced MATLAB programming concepts, including matrix pre-allocation for memory management, custom function modularity, statistical plotting, and the practical application of the Law of Large Numbers.
